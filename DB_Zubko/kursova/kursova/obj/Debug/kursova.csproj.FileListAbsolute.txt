@@ -1,0 +1,258 @@
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\kursova.dll.config
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\kursova.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\kursova.pdb
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Antlr3.Runtime.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\EntityFramework.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\EntityFramework.SqlServer.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Google.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Web.Infrastructure.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Newtonsoft.Json.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Owin.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Net.Http.Formatting.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Helpers.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Http.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Http.Owin.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Http.WebHost.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Mvc.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Optimization.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Razor.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.WebPages.Deployment.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.WebPages.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.WebPages.Razor.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\WebGrease.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Newtonsoft.Json.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Net.Http.Formatting.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Helpers.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Http.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Http.WebHost.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Mvc.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Optimization.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Razor.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.WebPages.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.WebPages.Deployment.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.WebPages.Razor.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Antlr3.Runtime.pdb
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\EntityFramework.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\EntityFramework.SqlServer.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Google.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\System.Web.Http.Owin.xml
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.Helpers.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.Http.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.Mvc.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.Optimization.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.Razor.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.WebPages.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\EntityFramework.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.Owin.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\bin\ru\System.Web.Http.Owin.resources.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\obj\Debug\kursova.csprojResolveAssemblyReference.cache
+D:\ант\ПРОЕКТИ\kursova\kursova\obj\Debug\kursova.dll
+D:\ант\ПРОЕКТИ\kursova\kursova\obj\Debug\kursova.pdb
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\kursova.dll.config
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\kursova.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\kursova.pdb
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Antlr3.Runtime.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\EntityFramework.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\EntityFramework.SqlServer.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.AspNet.Identity.Core.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Cookies.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Facebook.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Google.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.OAuth.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Twitter.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Web.Infrastructure.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Newtonsoft.Json.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Owin.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Net.Http.Formatting.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Helpers.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Http.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Http.Owin.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Http.WebHost.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Mvc.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Optimization.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Razor.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.WebPages.Deployment.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.WebPages.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.WebPages.Razor.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\WebGrease.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Newtonsoft.Json.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Net.Http.Formatting.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Helpers.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Http.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Http.WebHost.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Mvc.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Optimization.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Razor.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.WebPages.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.WebPages.Deployment.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.WebPages.Razor.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Antlr3.Runtime.pdb
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\EntityFramework.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\EntityFramework.SqlServer.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.AspNet.Identity.Core.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Facebook.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Cookies.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.OAuth.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Google.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.Twitter.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\System.Web.Http.Owin.xml
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.Helpers.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.Http.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.Mvc.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.Optimization.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.Razor.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.WebPages.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\EntityFramework.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.Owin.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\bin\ru\System.Web.Http.Owin.resources.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\obj\Debug\kursova.csprojResolveAssemblyReference.cache
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\obj\Debug\kursova.dll
+D:\4kurs\DB Kursova\Зубко А.В. 1ПІ-15б\kursova\kursova\obj\Debug\kursova.pdb
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\kursova.dll.config
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\kursova.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\kursova.pdb
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Antlr3.Runtime.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\EntityFramework.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\EntityFramework.SqlServer.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.AspNet.Identity.Core.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Cookies.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Facebook.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Google.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.OAuth.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Twitter.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Web.Infrastructure.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Newtonsoft.Json.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Owin.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Net.Http.Formatting.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Helpers.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Http.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Http.Owin.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Http.WebHost.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Mvc.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Optimization.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Razor.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.WebPages.Deployment.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.WebPages.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.WebPages.Razor.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\WebGrease.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Newtonsoft.Json.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Net.Http.Formatting.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Helpers.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Http.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Http.WebHost.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Mvc.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Optimization.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Razor.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.WebPages.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.WebPages.Deployment.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.WebPages.Razor.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Antlr3.Runtime.pdb
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\EntityFramework.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\EntityFramework.SqlServer.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.AspNet.Identity.Core.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Facebook.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Cookies.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.OAuth.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Google.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.Twitter.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\System.Web.Http.Owin.xml
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.Helpers.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.Http.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.Mvc.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.Optimization.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.Razor.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.WebPages.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\EntityFramework.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.Owin.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\bin\ru\System.Web.Http.Owin.resources.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\obj\Debug\kursova.csprojResolveAssemblyReference.cache
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\obj\Debug\kursova.dll
+D:\4kurs\DB Kursova\DB_Zubko\kursova\kursova\obj\Debug\kursova.pdb
